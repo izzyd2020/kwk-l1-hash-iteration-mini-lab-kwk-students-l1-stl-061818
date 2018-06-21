@@ -1,3 +1,3 @@
 puts "please input your birthday month"
 birthday = gets.chomp
-puts "thanks #{birthday} is the best "
+puts "thanks #{birthday.upcase} is the best "
